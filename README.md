@@ -3,6 +3,7 @@
 # 原專案
 自加拿大工程師WES BOS製作的一系列純javascript練習
 包含30個不同主題
+> [JavaScript30 Git](https://github.com/wesbos/JavaScript30)
 # 目的
 跟著專案重新理一遍JS
 順便做做自己的筆記
